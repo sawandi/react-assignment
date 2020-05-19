@@ -1,0 +1,22 @@
+#dlt{
+    margin-left: 200px;
+    margin-right: 10px;
+    width: 100px;
+    //height: 30px;
+}
+#edit{
+    margin-right: 10px;
+    width: 100px;
+}
+
+#complete{
+    width: 100px;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+#list{
+    border-radius: 5px;
+}
